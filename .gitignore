@@ -1,0 +1,9 @@
+node_modules/
+dist/
+client/dist/
+*.db
+*.db-journal
+*.sqlite
+*.sqlite3
+npm-debug.log*
+.env
